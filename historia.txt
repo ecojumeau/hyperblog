@@ -7,4 +7,4 @@ Hoy hablaremos de su historia.
 
 Pdt: "¡Estoy intentando terminar esta clase the git!"
 
-Volví a este cambio para comenzar a usar html y css
+Volví a este cambio para comenzar a usar html y css... Volví otra vez.
