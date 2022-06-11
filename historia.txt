@@ -6,3 +6,5 @@ viviendo en todo el mundo
 Hoy hablaremos de su historia. 
 
 Pdt: "¡Estoy intentando terminar esta clase the git!"
+
+Volví a este cambio para comenzar a usar html y css
